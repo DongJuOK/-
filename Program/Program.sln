@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th (Constructor & Des
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Shallow Copy & Deep Copy)", "..\Class4th (Shallow Copy & Deep Copy)\Class4th (Shallow Copy & Deep Copy).vcxproj", "{92D68D1B-42AA-479E-B004-AA3BB2D3A1FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (Inheritance)", "..\Class5th (Inheritance)\Class5th (Inheritance).vcxproj", "{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{92D68D1B-42AA-479E-B004-AA3BB2D3A1FD}.Release|x64.Build.0 = Release|x64
 		{92D68D1B-42AA-479E-B004-AA3BB2D3A1FD}.Release|x86.ActiveCfg = Release|Win32
 		{92D68D1B-42AA-479E-B004-AA3BB2D3A1FD}.Release|x86.Build.0 = Release|Win32
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Debug|x64.ActiveCfg = Debug|x64
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Debug|x64.Build.0 = Debug|x64
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Debug|x86.Build.0 = Debug|Win32
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Release|x64.ActiveCfg = Release|x64
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Release|x64.Build.0 = Release|x64
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Release|x86.ActiveCfg = Release|Win32
+		{AD215CE2-FD73-4FE5-BB8B-05E81D4FAE86}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
