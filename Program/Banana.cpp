@@ -2,7 +2,7 @@
 
 Banana::Banana()
 {
-	cout << "Create Banana" << endl;
+	cout << "Created Banana" << endl;
 }
 
 Banana::~Banana()

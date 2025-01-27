@@ -2,7 +2,7 @@
 
 Fruit::Fruit()
 {
-	cout << "Create Fruit" << endl;
+	cout << "Created Fruit" << endl;
 }
 
 Fruit::~Fruit()
