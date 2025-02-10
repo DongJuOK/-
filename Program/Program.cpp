@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <queue>
 
 using namespace std;
 
@@ -26,6 +27,25 @@ int main()
 	List<int> intList;
 	
 
+#pragma endregion
+
+	//
+
+#pragma region Queue
+	//  std::queue<int> queue;
+	//  
+	//  queue.push(10);
+	//  queue.push(20);
+	//  queue.push(30);
+	//  queue.push(40);
+	//  queue.push(50);
+	//  
+	//  while (queue.empty() == false)
+	//  {
+	//  	cout << queue.front() << " ";
+	//  
+	//  	queue.pop();
+	//  }
 #pragma endregion
 
 	return 0;
